@@ -15,8 +15,9 @@ Each cipher has its unique encryption and decryption mechanism, allowing users t
 To use this project, clone the repository and compile the code using a C++ compiler. Each cipher can be accessed through the provided functions, allowing users to encrypt and decrypt messages by selecting the desired cipher.
 
 # Contact
-For any questions or further information, please contact us at one of the following emails: mohamedkhaledfcai@gmail.com
-waheedfcai@gmail.com
-abdelrahmangomaa3005@gmail.com
+For any questions or further information, please contact us at one of the following emails: 
+1. mohamedkhaledfcai@gmail.com
+2. waheedfcai@gmail.com
+3. abdelrahmangomaa3005@gmail.com
 
 Feel free to reach out if you have any issues or need assistance with the project.
